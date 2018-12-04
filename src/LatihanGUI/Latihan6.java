@@ -326,7 +326,7 @@ public class Latihan6 extends javax.swing.JFrame {
 
     private void buttonKomaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonKomaActionPerformed
         // TODO add your handling code here:
-        angka += ",";
+        angka += ".";
         display.setText(angka);
     }//GEN-LAST:event_buttonKomaActionPerformed
 
